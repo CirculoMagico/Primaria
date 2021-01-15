@@ -78,7 +78,7 @@
      <style borderStroke="0.7" markerStroke="5.0">
       <color background="0xFFFFFF" />
      </style>
-     <p>TARJETA MADRE</p>
+     <p>PLACA MADRE</p>
     </cell>
     <cell>
      <style borderStroke="0.7" markerStroke="5.0">
@@ -102,13 +102,13 @@
      <style borderStroke="0.7" markerStroke="5.0">
       <color background="0xFFFFFF" />
      </style>
-     <p>PROCESADOR</p>
+     <p>CPU</p>
     </cell>
     <cell>
      <style borderStroke="0.7" markerStroke="5.0">
       <color background="0xFFFFFF" />
      </style>
-     <p>UNIDAD OPTICA</p>
+     <p>UNIDAD ÓPTICA</p>
     </cell>
    </cells>
    <scramble times="31" primary="true" />
